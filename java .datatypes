@@ -1,0 +1,13 @@
+public class Main {
+   public static void main(String[] args) {
+     int myNum = 1;
+     float myFloatNum = 2.34f;
+     char myLetter = 'A';
+     boolean myBool = true;
+     String myText = "Hi,ARMY!";
+     System.out.println(muNum);
+     System.out.println(myFloatNum);
+     System.out.println(myLetter);
+     System.out.println(myBool);
+     System.out.println(myText);
+
